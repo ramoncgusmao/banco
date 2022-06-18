@@ -1,0 +1,16 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.0",
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.7.4"
+  }
+}
